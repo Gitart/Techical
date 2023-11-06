@@ -1,4 +1,4 @@
-# Techical Information
+# Technical Information
 
 Tech topic
 * CMS
