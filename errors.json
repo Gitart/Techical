@@ -1,7 +1,7 @@
 [
-  {"id":122,  "error":true, "error_message":"Err1", "title":"title1"},
-  {"id":14,   "error":false, "error_message":"Err2", "title":"title2"},
-  {"id":1132, "error":true,  "error_message":"Err3", "title":"title4"},
-  {"id":12332, "error":true, "error_message":"error creted documents", "title":"title4"}
+  {"id":122,  "error":true, "error_message":"Err nothing", "title":"title1"},
+  {"id":14,   "error":false, "error_message":"Error empty date created", "title":"title2"},
+  {"id":1132, "error":true,  "error_message":"Error empty number", "title":"title4"},
+  {"id":12332, "error":true, "error_message":"Error creted documents", "title":"title4"}
   
 ]
